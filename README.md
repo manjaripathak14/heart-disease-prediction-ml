@@ -26,9 +26,14 @@ Random Forest Classifier
 - Recall: 96%
 
 ## Visualizations
-- Confusion Matrix
-- ROC Curve
-- Feature Importance
 
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](roc_curve.png)
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
 ## Author
 Manjari Pathak
